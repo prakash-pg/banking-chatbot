@@ -32,7 +32,7 @@ Try it out with these credentials:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/banking-chatbot.git
+git clone https://github.com/Prakash-PG/banking-chatbot.git
 cd banking-chatbot
 ```
 
