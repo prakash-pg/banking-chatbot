@@ -149,10 +149,4 @@ prakashpgmj@outlook.com
 
 
 
-## Acknowledgments
 
-- Flask development team
-- Contributors and testers
-- Banking industry professionals for insights
-
----
