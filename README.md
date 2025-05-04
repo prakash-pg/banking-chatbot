@@ -2,7 +2,7 @@
 
 A web-based banking assistant powered by Flask that helps users manage their accounts, check balances, transfer money, and get banking information.
 
-![Banking Chatbot Screenshot]-> click here https://github.com/prakash-pg/banking-chatbot/issues/1#issue-3038081442
+![Banking Chatbot Screenshot] .... click here to know how the project looks like after running the code -> https://github.com/prakash-pg/banking-chatbot/issues/1#issue-3038081442
 
 ## Features
 
