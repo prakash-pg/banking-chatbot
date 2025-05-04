@@ -145,9 +145,9 @@ This is a demo application for educational purposes only. Do not use with real b
 
 ## Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername) - your.email@example.com
+prakashpgmj@outlook.com
 
-Project Link: [https://github.com/yourusername/banking-chatbot](https://github.com/yourusername/banking-chatbot)
+
 
 ## Acknowledgments
 
